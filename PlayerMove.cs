@@ -1,0 +1,3 @@
+void Jump() { }
+
+void JumpAnimation() { }
