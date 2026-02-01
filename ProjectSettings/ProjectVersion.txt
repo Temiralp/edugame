@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 m_EditorVersion: 6000.0.60f1
 m_EditorVersionWithRevision: 6000.0.60f1 (61dfb374e36f)
+=======
+<<<<<<< HEAD
+m_EditorVersion: 6000.3.1f1
+m_EditorVersionWithRevision: 6000.3.1f1 (37142da19a94)
+=======
+m_EditorVersion: 2022.3.62f3
+m_EditorVersionWithRevision: 2022.3.62f3 (96770f904ca7)
+>>>>>>> fc8ac7e8b1fa74532d86eddc9713ab460effbf08
+>>>>>>> 19692b469ca0b7a870d7f528ba640db4f01be881
