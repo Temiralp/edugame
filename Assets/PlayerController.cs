@@ -3,18 +3,8 @@ using UnityEngine;
 
 public class PlayerController
 {
-    test12
+
+    test1234
 }
 
-
-public class PlayerCameraController
-{
-    int i;
-
-    int r;
-    
-}
-
-
-=======
 
